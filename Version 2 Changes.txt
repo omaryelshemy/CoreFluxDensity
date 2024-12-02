@@ -1,0 +1,2 @@
+1) Added units to all inputs
+2) Tested root value using new data points. Results were conclusive and none of the graphs had spikes. Hence, the root was kept the same.
